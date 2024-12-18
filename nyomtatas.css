@@ -1,11 +1,12 @@
 body{
   color: #293647;
+  background-image: url(drukletters.jpg);
 }
 
 .bg-fej {
   background-position: center;
   height: 250px;
-  padding-top: 75px;
+  padding-top: 75px
 }
 
 .bg-fej h1{
